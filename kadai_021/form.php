@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <title>課題‗021</title>
-</head>
+ </head>
 
 <body>
     <p>個人情報入力フォーム</p>
